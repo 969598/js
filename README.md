@@ -1,1 +1,1 @@
-# js
+# web development minor project
